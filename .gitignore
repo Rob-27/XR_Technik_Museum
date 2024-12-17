@@ -70,3 +70,6 @@ XR_Technik_Museum/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 # Temporary auto-generated Android Assets
 XR_Technik_Museum/[Aa]ssets/[Ss]treamingAssets/aa.meta
 XR_Technik_Museum/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+#Vuforia
+*com.ptc.vuforia.engine-10.28.4.tgz
