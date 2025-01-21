@@ -15,6 +15,9 @@ https://ambientcg.com/a/Rock018
 Marble019:
 https://ambientcg.com/a/Marble019
 
+Asphalt009:
+https://ambientcg.com/a/Asphalt009
+
 Asphalt010 :
 https://ambientcg.com/a/Asphalt010
 
