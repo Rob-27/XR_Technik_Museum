@@ -22,7 +22,16 @@ Asphalt010 :
 https://ambientcg.com/a/Asphalt010
 
 
-Sprites in der Szene von von Iconfinder.com
+Sprites in der Szene von Iconfinder.com
+
+Astronaut Icon:
+https://www.iconfinder.com/search?q=astronaut&price=free&license=gte__2
+
+Information Icon:
+https://www.iconfinder.com/search?q=Information&price=free&license=gte__2
+
+Location Icon:
+https://www.iconfinder.com/search?q=Location+pin&price=free&license=gte__2
 
 Instagram Logo:
 https://www.iconfinder.com/search?q=instagram&price=free&license=gte__2
