@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="flyer_backcover-02" size="0.148000 0.207558" />
     <ImageTarget name="flyer_frontcover" size="0.148000 0.207558" />
   </Tracking>
 </QCARConfig>
