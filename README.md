@@ -21,5 +21,22 @@ https://ambientcg.com/a/Asphalt009
 Asphalt010 :
 https://ambientcg.com/a/Asphalt010
 
+Sprites in der Szene von von Iconfinder.com
+
+Instagram Logo:
+https://www.iconfinder.com/search?q=instagram&price=free&license=gte__2
+
+Facebook Logo:
+https://www.iconfinder.com/search?q=facebook&price=free&license=gte__2
+
+Youtube Logo:
+https://www.iconfinder.com/search?q=youtube&price=free&license=gte__2
+
+
+
+
+
+
+
 
 
