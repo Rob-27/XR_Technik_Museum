@@ -22,7 +22,16 @@ Asphalt010 :
 https://ambientcg.com/a/Asphalt010
 
 
-Sprites in der Szene von von Iconfinder.com
+Sprites in der Szene von Iconfinder.com
+
+Astronaut Icon:
+https://www.iconfinder.com/search?q=astronaut&price=free&license=gte__2
+
+Information Icon:
+https://www.iconfinder.com/search?q=Information&price=free&license=gte__2
+
+Location Icon:
+https://www.iconfinder.com/search?q=Location+pin&price=free&license=gte__2
 
 Instagram Logo:
 https://www.iconfinder.com/search?q=instagram&price=free&license=gte__2
@@ -40,6 +49,10 @@ https://www.bbc.com/future/article/20240906-from-space-selfies-to-nearly-drownin
 https://de.wikipedia.org/wiki/Wostok_2
 
 https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Highlights/50_years_of_spacewalks
+
+Referenzbild in der Cinema 4D Datei:
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Voskhod_spacecraft_diagram.png/220px-Voskhod_spacecraft_diagram.png
 
 
 
