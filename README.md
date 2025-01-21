@@ -50,6 +50,10 @@ https://de.wikipedia.org/wiki/Wostok_2
 
 https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Highlights/50_years_of_spacewalks
 
+Referenzbild in der Cinema 4D Datei:
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Voskhod_spacecraft_diagram.png/220px-Voskhod_spacecraft_diagram.png
+
 
 
 
