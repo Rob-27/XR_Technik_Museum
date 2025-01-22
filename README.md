@@ -54,6 +54,16 @@ Referenzbild in der Cinema 4D Datei:
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Voskhod_spacecraft_diagram.png/220px-Voskhod_spacecraft_diagram.png
 
+Fonts:
+
+All Round Gothic Demi (Image Targets)
+https://fonts.adobe.com/fonts/all-round-gothic
+
+Roboto
+https://fonts.google.com/specimen/Roboto
+
+
+
 
 
 
